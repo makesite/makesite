@@ -18,3 +18,4 @@ Improve error handling
 Rewrite function Y
 Optimize loop
 Improve performance
+Clean up codebase
