@@ -28,3 +28,4 @@ Improve logging
 Update configuration
 Add documentation
 Add documentation
+Refactor core logic
