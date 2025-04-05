@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Improve error handling
 Rewrite function Y
 Optimize loop
+Improve performance
